@@ -24,8 +24,8 @@ inside our VM machine 16.04sudo apt-get install -y
 
 - install packages - sudo apt-get install nginx
 - check status or programs - 
-- Launch nginx in browser 
-
+- Launch nginx in browser            
+              
 - vagrant up 
 - vagrant ssh
 - sudo apt-get update -y
