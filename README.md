@@ -11,6 +11,17 @@ inside our VM machine 16.04sudo apt-get install -y
 
 ## excercise create two folders: dir1 and dir2
 1. in each dir create two files: test1 and test2.txt
-2. check the current dir location and document the command to access the dir and exit
-3. Navigating through linux - cd .. 
-4. Going inside folder - cd 
+2. check the current dir location and document the command to access the dir and exit 
+
+## Terminology 
+- cd .. - navigate back to previous folder 
+- cd - move to folder
+- rm - remove file or dir
+- sudo su - change to root user
+- id - check who is using the machine 
+- echo - print command line 
+- exit - go back to user 
+
+- install packages - sudo apt-get install nginx
+- check status or programs - 
+- Launch nginx in browser 
