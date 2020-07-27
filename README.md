@@ -10,5 +10,7 @@ inside our VM machine 16.04sudo apt-get install -y
 - How to create a directory - mkdir "name of directory"
 
 ## excercise create two folders: dir1 and dir2
-- in each dir create two files: test1 and test2.txt
-- check the current dir location and document the command to access the dir and exit
+1. in each dir create two files: test1 and test2.txt
+2. check the current dir location and document the command to access the dir and exit
+3. Navigating through linux - cd .. 
+4. Going inside folder - cd 
